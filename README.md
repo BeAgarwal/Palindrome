@@ -3,7 +3,9 @@ In this repository, All types of questions related to palindrome and different w
 
 ## Different types of question.
 
->1.
+>1. Program to check the sum of a digit is a palindrome or not.
+>2. 
+
 
 ## Different ways to solve the palindrome.
 
