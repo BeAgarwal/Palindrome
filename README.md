@@ -4,7 +4,8 @@ In this repository, All types of questions related to palindrome and different w
 ## Different types of question.
 
 >1. Program to check the sum of a digit is a palindrome or not.
->2. 
+>2. Program to check whether the given floating point number is a palindrome or not.
+>3. 
 
 
 ## Different ways to solve the palindrome.
