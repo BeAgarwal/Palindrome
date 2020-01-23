@@ -5,7 +5,8 @@ In this repository, All types of questions related to palindrome and different w
 
 >1. Program to check the sum of a digit is a palindrome or not.
 >2. Program to check whether the given floating point number is a palindrome or not.
->3. 
+>3. Program to find all palindrome numbers of given digit.
+>4. 
 
 
 ## Different ways to solve the palindrome.
